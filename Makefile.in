@@ -1,0 +1,11 @@
+
+ifeq ($(MODE),zero)
+############################### desktop GCC
+CC = gcc    -D_GNU_SOURCE
+COPTS = -fPIC -g -Wall
+
+FORT = gfortran
+FOPTS = -fPIC -g -Wall -ffixed-line-length-132
+###############################
+endif
+
