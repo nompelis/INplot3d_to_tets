@@ -1,6 +1,6 @@
 # INplot3d_to_tets
 A small and portable utility to turn a single-block structured 3D-grid to
-tetrahedra. Written by IN <nompelis@nobewlare.com>
+tetrahedra. Written by IN <nompelis@nobelware.com>
 
 
 SUMMARY
